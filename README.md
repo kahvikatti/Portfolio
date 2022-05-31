@@ -5,6 +5,7 @@ Hi there. I'm a recent Game Development graduate from Finland currently looking 
 
 So far, I've programmed, produced and released [OkuFriends on Google Play](https://play.google.com/store/apps/details?id=com.NiceTryNY.OkuFriends).
 You can check out my other finished projects at [https://kahvikatti.itch.io](https://kahvikatti.itch.io).
+I'm currently working on a mobile game about gardening and collecting cats. You can find the project folder under 4_Growacat.
 
 You can email me at **sonja.kuusniemi@gmail.com**
 or connect with me on [LinkedIn](https://linkedin.com/in/sonja-kuusniemi)!

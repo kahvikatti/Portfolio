@@ -122,7 +122,7 @@
 -define:ROSLYN_ANALYZER_FIX
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"D:/GitHub/Portfolio/4_Growacat/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"D:/GitHub/kahvikatti.github.io/4_Growacat/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"F:/ProgramFiles/Unity/2021.3.2f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"F:/ProgramFiles/Unity/2021.3.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"F:/ProgramFiles/Unity/2021.3.2f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
